@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "xiosbase": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp",
+        "expected": "cpp",
+        "functional": "cpp",
+        "optional": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "xlocmon": "cpp",
+        "xtr1common": "cpp",
+        "xutility": "cpp",
+        "map": "cpp",
+        "format": "cpp",
+        "unordered_map": "cpp",
+        "variant": "cpp",
+        "xmemory": "cpp",
+        "xtree": "cpp"
+    }
+}
